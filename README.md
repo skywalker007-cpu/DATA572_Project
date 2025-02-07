@@ -5,7 +5,7 @@ This is the repo for DATA 572
 In this repo, we will be doing the analysis on the milk qualiy data set and use three models to predict the quality of the milk.
 
 ## Choice of models
-- K-Nearest Neighbor
+- Logistic Regression
 - Decision Tree
 - Random Forest
 
